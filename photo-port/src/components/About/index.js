@@ -1,4 +1,4 @@
-// import coverImage from "../../assets/cover-image.jpg"
+
 import React from 'react';
 
 function About() {
