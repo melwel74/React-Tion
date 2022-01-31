@@ -13,17 +13,17 @@ function Nav() {
                         </a>
                     </li>
                     <li>
-                        <a href="#about">
+                        <a href="#portfolio">
                             Portfolio
                         </a>
                     </li>
                     <li className="mx-2">
-                        <a href="#about">
+                        <a href="#Contact">
                             Contact
                         </a>
                     </li>
                     <li>
-                        <a href="#about">
+                        <a href="#Resume">
                             Resume
                         </a>
                     </li>
