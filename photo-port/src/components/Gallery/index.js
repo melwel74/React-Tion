@@ -9,7 +9,7 @@ function Gallery() {
     return (
         <section className="my-5">
 
-           <h2>Some Projects</h2>
+           <h2>My Projects</h2>
            <Project image= {image1} title={'Run Buddy'} link={'https://melwel74.github.io/Run-Buddy-4.0/'}></Project>
            <Project image={image2} title={'React Tion'} link={'https://github.com/melwel74/React-Tion.git'}></Project>
            <Project image= {image3} title={'Taco-Loca-Locator'} link={'https://jamestw13.github.io/Taco-Loca-tor/'}></Project>
