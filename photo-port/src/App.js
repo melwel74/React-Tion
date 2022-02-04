@@ -10,8 +10,8 @@ function App() {
   
   return (
 
-    <div>
-      <Nav />
+    <div>     
+      <Nav />    
       <main>
         <ContactForm></ContactForm>
         <About></About>
