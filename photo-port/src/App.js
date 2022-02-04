@@ -5,8 +5,11 @@ import ContactForm from './components/Contact';
 import './App.css';
 import Gallery from './components/Gallery';
 
+
 function App() {
+  
   return (
+
     <div>
       <Nav />
       <main>
