@@ -1,7 +1,7 @@
+import { useState } from 'react';
 import React from 'react';
 import './style.css';
 function Nav() {
-    
     return (
 
         <header>

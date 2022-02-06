@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import React from 'react';
 import Nav from './components/Nav';
 import About from './components/About';
@@ -6,8 +7,8 @@ import './App.css';
 import Gallery from './components/Gallery';
 
 
-function App() {
-  
+function App(props) {
+  const [contactSelected, setContactSelected] = useState(false);
   return (
 
     <div>     
