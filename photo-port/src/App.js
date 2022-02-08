@@ -15,7 +15,7 @@ function App(props) {
   const [contactSelected, setContactSelected] = useState(false);
   return (
 
-    <div>     
+    <header className="App-header" >   
       <Nav />    
       <main>
         <ContactForm></ContactForm>
@@ -23,7 +23,7 @@ function App(props) {
         <Gallery></Gallery>
       </main>
 
-    </div>
+    </header>
   );
 }
 
