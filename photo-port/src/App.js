@@ -11,7 +11,7 @@ import Gallery from './components/Gallery';
 
 
 
-function App(props) {
+function App() {
   const [contactSelected, setContactSelected] = useState(false);
   return (
 
