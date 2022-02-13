@@ -1,6 +1,6 @@
 import React from 'react';
 import Project from '../Project';
-import image1 from '../../assets/small/commercial/1.jpg';
+import image1 from '../../assets/small/commercial/sport-runner-on-start-260nw-567905164.jpeg';
 import image2 from '../../assets/small/portraits/3.jpg';
 import image3 from '../../assets/small/food/1.jpg';
 import image4 from '../../assets/small/landscape/4.jpg';
