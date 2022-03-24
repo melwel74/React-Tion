@@ -4,6 +4,9 @@
 
 # Technology Used
 #### REACT
+#### HTML
+#### JAVASCRIPT
+#### CSS
 
 # Test
 #### No test performed
